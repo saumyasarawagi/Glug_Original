@@ -1,0 +1,4 @@
+For EMail Sent
+	Edit the env file
+	Set password = generated through two step security password(App Password)
+	Follow the rest of step given in tutorial
